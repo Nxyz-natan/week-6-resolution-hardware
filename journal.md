@@ -1,11 +1,11 @@
 
 # RP2350A IMU Dev Board
 
-[Preface] I'm building a custom dev board around the RP2350A because 
+[Preface] I am building a custom dev board around the RP2350A because 
 I wanted to design my own PCB from scratch with an onboard IMU for 
 motion sensing.
 
-## May 27 - Schematic Design
+## May 27 - Schematic Design and pcb
 
 Today I worked on the full schematic in KiCad. I started with the 
 power section using a USB-C connector and an AMS1117-33 LDO to bring 
@@ -38,7 +38,7 @@ Today I designed a case for the dev board in Shapr3D.
 
 I started by exporting the PCB as a STEP file from KiCad and importing 
 it into Shapr3D to use as a reference for the case dimensions. I 
-designed the case in two parts — a bottom tray and a top lid — with 
+designed the case in two parts  a bottom tray and a top lid  with 
 1.5mm screw holes in each corner so the two pieces can be fastened 
 together with M2 screws.
 
